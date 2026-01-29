@@ -29,18 +29,18 @@ As we iterate through the array:
 
 ## 📌 Sample Input
 
-5 \n
-1
-2
-2
-5
-10
+## 5 
+## 1
+## 2
+## 2
+## 5
+## 10
 
 ---
 
 ## 📌 Sample Output
 
-21
+## 21
 
 ---
 
