@@ -29,7 +29,7 @@ As we iterate through the array:
 
 ## 📌 Sample Input
 
-5
+5 \n
 1
 2
 2
